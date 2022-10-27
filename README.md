@@ -7,6 +7,6 @@ This repository was developed for the [Machine Learning 1](https://coursecatalog
 
 The course consisted of two lab assignments, each containing two parts.
 
-[Lab Assignment 1] - Polynomial Regression and Bayesian Linear Regression
+Lab Assignment 1 - Polynomial Regression and Bayesian Linear Regression
 
-[Lab Assignment 2] - Gaussian Processes and Suport Vector Machines
+Lab Assignment 2 - Gaussian Processes and Suport Vector Machines
