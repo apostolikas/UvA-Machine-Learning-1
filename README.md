@@ -10,3 +10,7 @@ The course consisted of two lab assignments, each containing two parts.
 Lab Assignment 1 - Polynomial Regression and Bayesian Linear Regression
 
 Lab Assignment 2 - Gaussian Processes and Suport Vector Machines
+
+## Copyright
+
+This project is distributed under the MIT license and it was developed as part of the course Machine Learning 1 at the University of Amsterdam. If you are a student at UvA, please first make sure to consult [this page](https://student.uva.nl/en/topics/plagiarism-and-fraud).
